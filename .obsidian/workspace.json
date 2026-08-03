@@ -11,10 +11,14 @@
             "id": "7393235664220cd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Uni Courses/COAL/Registers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Registers"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2345be0a88577612",
@@ -178,14 +185,19 @@
   },
   "active": "7393235664220cd8",
   "lastOpenFiles": [
+    "Uni Courses/COAL/COAL Course Content.md",
+    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
+    "Coursera/Hello ,Python By Google/Module 1/Module 1.md",
+    "Coursera/Hello ,Python By Google/Module 2.md",
     "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
+    "Uni Courses/COAL/Registers.md",
     "Coursera Courses.md",
+    "Coursera/Game Design and Development with Unity Specialization by Michigan State University..md",
+    "Uni Courses/COAL/Basic Computer Architecture.md",
     "The Network Edge.md",
     "Uni Courses/Computer Networks Course Content.md",
     "Notes",
     "University Courses.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
-    "Uni Courses/COAL/COAL Course Content.md",
     "Types of Jump.md",
     "Uni Courses/Graph Theory/Introduction to Graph Theory.md",
     "Coursera/Hello ,Python By Google/Module 4.md",
@@ -200,12 +212,6 @@
     "Uni Courses/Graph Theory/Flow networks.md",
     "Uni Courses/Graph Theory/Eulerian graphs and Hamiltonians graphs with applications.md",
     "Uni Courses/Graph Theory/Distance algorithms and implementation.md",
-    "Uni Courses/Graph Theory/Cycle and distance in weighted graph and digraphs.md",
-    "Uni Courses/Graph Theory/Shortest path algorithms and implementation.md",
-    "Uni Courses/Graph Theory/Path and Distance in graphs.md",
-    "Uni Courses/Graph Theory/Minimum Spanning Tree algorithms and implementation.md",
-    "Uni Courses/Graph Theory/Directed and Undirected rooted tree.md",
-    "Uni Courses/Graph Theory/Balanced Binary Tree.md",
     "Uni Courses/Graph Theory",
     "Uni Courses/COAL",
     "Uni Courses",
