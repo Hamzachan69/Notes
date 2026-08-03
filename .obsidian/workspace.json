@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni Courses/COAL/Registers.md",
+                "file": "Segmented Memory Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registers"
+              "title": "Segmented Memory Model"
             }
           }
         ]
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2345be0a88577612",
@@ -186,16 +183,14 @@
   "active": "7393235664220cd8",
   "lastOpenFiles": [
     "Uni Courses/COAL/COAL Course Content.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
-    "Coursera/Hello ,Python By Google/Module 1/Module 1.md",
-    "Coursera/Hello ,Python By Google/Module 2.md",
-    "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
-    "Uni Courses/COAL/Registers.md",
-    "Coursera Courses.md",
-    "Coursera/Game Design and Development with Unity Specialization by Michigan State University..md",
+    "Segmented Memory Model.md",
     "Uni Courses/COAL/Basic Computer Architecture.md",
+    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
     "The Network Edge.md",
     "Uni Courses/Computer Networks Course Content.md",
+    "Uni Courses/COAL/Registers.md",
+    "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
+    "Coursera Courses.md",
     "Notes",
     "University Courses.md",
     "Types of Jump.md",
@@ -212,6 +207,9 @@
     "Uni Courses/Graph Theory/Flow networks.md",
     "Uni Courses/Graph Theory/Eulerian graphs and Hamiltonians graphs with applications.md",
     "Uni Courses/Graph Theory/Distance algorithms and implementation.md",
+    "Uni Courses/Graph Theory/Cycle and distance in weighted graph and digraphs.md",
+    "Uni Courses/Graph Theory/Shortest path algorithms and implementation.md",
+    "Uni Courses/Graph Theory/Path and Distance in graphs.md",
     "Uni Courses/Graph Theory",
     "Uni Courses/COAL",
     "Uni Courses",
