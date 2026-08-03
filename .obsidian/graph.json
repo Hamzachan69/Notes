@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Coursera  ",
+      "color": {
+        "a": 1,
+        "rgb": 3042815
+      }
+    },
+    {
+      "query": "path:University Courses",
+      "color": {
+        "a": 1,
+        "rgb": 11621119
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.58235294117647,
+  "lineSizeMultiplier": 3.47647058823529,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 468,
+  "scale": 0.08317427835927405,
+  "close": true
+}

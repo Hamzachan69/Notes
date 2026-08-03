@@ -1,0 +1,10 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-indigo-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
+  "obsidian-prism-theme@@graph-line-color-lt": "var(--color-mint-tint)",
+  "obsidian-prism-theme@@graph-fill-color-lt": "var(--color-green-tint)",
+  "obsidian-prism-theme@@pt-focused-mode": true,
+  "obsidian-prism-theme@@pt-font-slashed-zero": true,
+  "obsidian-prism-theme@@pt-font-alt-g": true,
+  "obsidian-prism-theme@@pt-font-alt-a": true
+}
