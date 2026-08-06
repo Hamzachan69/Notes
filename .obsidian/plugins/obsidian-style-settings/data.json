@@ -6,5 +6,11 @@
   "obsidian-prism-theme@@pt-focused-mode": true,
   "obsidian-prism-theme@@pt-font-slashed-zero": true,
   "obsidian-prism-theme@@pt-font-alt-g": true,
-  "obsidian-prism-theme@@pt-font-alt-a": true
+  "obsidian-prism-theme@@pt-font-alt-a": true,
+  "encore-settings@@theme-dark": "encore-theme-dark",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-strength": 1,
+  "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
+  "encore-settings@@encore-translucency-blur-amount": 13
 }

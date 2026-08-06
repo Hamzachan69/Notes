@@ -221,4 +221,4 @@ The **Program Counter (PC)** is the register whose entire job is to hold "the ad
 |Instruction Register|The current instruction being decoded right now|The sentence you're reading right this second|
 
 ---
-S
+[[Basic Computer Architecture | Prev Topic]]                                                                                                                        [[Instruction Groups | Next Topic]] 

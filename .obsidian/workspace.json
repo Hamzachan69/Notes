@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cc45bce3b892517e",
+        "id": "eed2a64619fd682a",
         "type": "tabs",
         "children": [
           {
-            "id": "7393235664220cd8",
+            "id": "60e9532ac234d597",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segmented Memory Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segmented Memory Model"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "452a5325d128d2f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +48,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,22 +189,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "7393235664220cd8",
+  "active": "452a5325d128d2f9",
   "lastOpenFiles": [
-    "Uni Courses/COAL/COAL Course Content.md",
-    "Segmented Memory Model.md",
-    "Uni Courses/COAL/Basic Computer Architecture.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
-    "The Network Edge.md",
-    "Uni Courses/Computer Networks Course Content.md",
     "Uni Courses/COAL/Registers.md",
-    "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
+    "Uni Courses/COAL/Instruction Groups.md",
+    "Uni Courses/COAL/Basic Computer Architecture.md",
+    "Uni Courses/COAL/COAL Course Content.md",
+    "Daily Notes/2026-08-03.md",
+    "Daily Notes/Daily notes.md",
+    "Segmented Memory Model.md",
+    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
     "Coursera Courses.md",
-    "Notes",
     "University Courses.md",
+    "The Network Edge.md",
     "Types of Jump.md",
-    "Uni Courses/Graph Theory/Introduction to Graph Theory.md",
     "Coursera/Hello ,Python By Google/Module 4.md",
+    "Coursera/Hello ,Python By Google/Module 2.md",
+    "Coursera/Hello ,Python By Google/Module 3.md",
+    "Notes.md",
+    "Daily Notes",
+    "Uni Courses/COAL/History.md",
+    "Uni Courses/Computer Networks Course Content.md",
+    "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
+    "Notes",
+    "Uni Courses/Graph Theory/Introduction to Graph Theory.md",
     "Uni Courses/Graph Theory/Graph Theory Course Content.md",
     "Uni Courses/Graph Theory/Matching Algorithms.md",
     "Uni Courses/Graph Theory/Deadlock of computer system.md",
@@ -203,13 +220,6 @@
     "Uni Courses/Graph Theory/Planar graphs.md",
     "Uni Courses/Graph Theory/Edge coloring.md",
     "Uni Courses/Graph Theory/Graph coloring.md",
-    "Uni Courses/Graph Theory/Max-flow Min-cut Theorem.md",
-    "Uni Courses/Graph Theory/Flow networks.md",
-    "Uni Courses/Graph Theory/Eulerian graphs and Hamiltonians graphs with applications.md",
-    "Uni Courses/Graph Theory/Distance algorithms and implementation.md",
-    "Uni Courses/Graph Theory/Cycle and distance in weighted graph and digraphs.md",
-    "Uni Courses/Graph Theory/Shortest path algorithms and implementation.md",
-    "Uni Courses/Graph Theory/Path and Distance in graphs.md",
     "Uni Courses/Graph Theory",
     "Uni Courses/COAL",
     "Uni Courses",
