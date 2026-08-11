@@ -1,0 +1,6 @@
+{
+  "language": "auto",
+  "includeMetadata": true,
+  "includeFrontmatter": true,
+  "sourceAddMethod": "api"
+}

@@ -222,3 +222,4 @@ The **Program Counter (PC)** is the register whose entire job is to hold "the ad
 
 ---
 [[Basic Computer Architecture | Prev Topic]]                                                                                                                        [[Instruction Groups | Next Topic]] 
+

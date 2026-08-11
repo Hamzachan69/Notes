@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eed2a64619fd682a",
+        "id": "fe6b8bfd74f3ee42",
         "type": "tabs",
         "children": [
           {
-            "id": "60e9532ac234d597",
+            "id": "e0f752155109cbca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "452a5325d128d2f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Uni Courses/COAL/Our First Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Our First Program"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,10 +77,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "c5f046143f4347b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e9532ac234d597",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429
   },
   "right": {
     "id": "2345be0a88577612",
@@ -144,7 +153,27 @@
             }
           },
           {
-            "id": "806e64a540fdb629",
+            "id": "cf7e79d7c4329470",
+            "type": "leaf",
+            "state": {
+              "type": "notebooklm-webview",
+              "state": {},
+              "icon": "book-open",
+              "title": "NotebookLM"
+            }
+          },
+          {
+            "id": "639293204342d7aa",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "obsidian://open?vault=Notes&file=Uni%20Courses%..."
+            }
+          },
+          {
+            "id": "f2acdc5dece2e2c6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,11 +187,12 @@
             }
           },
           {
-            "id": "e03fae55adc56e25",
+            "id": "23385d086d75f389",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Uni Courses/COAL/Our First Program.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,44 +201,56 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 377,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "star-notebooklm:Send to NotebookLM": false,
+      "star-notebooklm:Open NotebookLM": false,
+      "sticky-notes:Open sticky note": false,
+      "whisper:Open recording controls": false,
+      "agent-client:Open agent client": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "452a5325d128d2f9",
+  "active": "e0f752155109cbca",
   "lastOpenFiles": [
-    "Uni Courses/COAL/Registers.md",
-    "Uni Courses/COAL/Instruction Groups.md",
-    "Uni Courses/COAL/Basic Computer Architecture.md",
     "Uni Courses/COAL/COAL Course Content.md",
+    "Uni Courses/COAL/Segmented Memory Model.md",
+    "Uni Courses/COAL/Basic Computer Architecture.md",
+    "Types of Jump.md",
+    "The Network Edge.md",
+    "University Courses.md",
+    "Uni Courses/COAL/Our First Program.md",
+    "Uni Courses/COAL/Register Architecture.md",
+    "Uni Courses/COAL/History.md",
+    "Uni Courses/COAL/Intel iapx88 Architecture.md",
+    "Uni Courses/COAL/Instruction Groups.md",
+    "Uni Courses/COAL/Registers.md",
+    "Uni Courses/COAL/Introduction to Assembly Language.md",
+    "Uni Courses/COAL/Assembly Code",
+    "Notes.md",
+    "Coursera Courses.md",
+    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
     "Daily Notes/2026-08-03.md",
     "Daily Notes/Daily notes.md",
-    "Segmented Memory Model.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
-    "Coursera Courses.md",
-    "University Courses.md",
-    "The Network Edge.md",
-    "Types of Jump.md",
     "Coursera/Hello ,Python By Google/Module 4.md",
     "Coursera/Hello ,Python By Google/Module 2.md",
     "Coursera/Hello ,Python By Google/Module 3.md",
-    "Notes.md",
     "Daily Notes",
-    "Uni Courses/COAL/History.md",
     "Uni Courses/Computer Networks Course Content.md",
     "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
     "Notes",
@@ -216,10 +258,6 @@
     "Uni Courses/Graph Theory/Graph Theory Course Content.md",
     "Uni Courses/Graph Theory/Matching Algorithms.md",
     "Uni Courses/Graph Theory/Deadlock of computer system.md",
-    "Uni Courses/Graph Theory/Four color theorem.md",
-    "Uni Courses/Graph Theory/Planar graphs.md",
-    "Uni Courses/Graph Theory/Edge coloring.md",
-    "Uni Courses/Graph Theory/Graph coloring.md",
     "Uni Courses/Graph Theory",
     "Uni Courses/COAL",
     "Uni Courses",

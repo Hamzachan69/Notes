@@ -18,7 +18,7 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
     
 - 1.8. [[Segmented Memory Model]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=20|📍 Segmented Memory Model]]
     
-
+---
 ### 2. [[Addressing Modes]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=25|📍 Addressing Modes]]
 
 - 2.1. [[Data Declaration]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=25|📍 Data Declaration]]
@@ -37,7 +37,7 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
     
 - 2.8. [[Addressing Modes Summary]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=35|📍 Addressing Modes Summary]]
     
-
+---
 ### 3. [[Branching]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=39|📍 Branching]]
 
 - 3.1. [[Comparison and Conditions]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=39|📍 Comparison and Conditions]]
@@ -52,7 +52,7 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
     
 - 3.6. [[Sorting Example]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=46|📍 Sorting Example]]
     
-
+---
 ### 4. [[Bit Manipulations]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=51|📍 Bit Manipulations]]
 
 - 4.1. [[Multiplication Algorithm]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=51|📍 Multiplication Algorithm]]
@@ -67,7 +67,7 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
     
 - 4.6. [[Masking Operations]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=59|📍 Masking Operations]]
     
-
+---
 ### 5. [[Subroutines]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=63|📍 Subroutines]]
 
 - 5.1. [[Program Flow]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=63|📍 Program Flow]]
@@ -82,7 +82,7 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
     
 - 5.6. [[Local Variables]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=75|📍 Local Variables]]
     
-
+---
 ### 6. [[Display Memory]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=79|📍 Display Memory]]
 
 - 6.1. [[ASCII Codes]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=79|📍 ASCII Codes]]
@@ -94,3 +94,4 @@ _This course content comes from [Assembly Language Programming Lecture Notes by 
 - 6.4. [[Number Printing in Assembly]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=83|📍 Number Printing in Assembly]]
     
 - 6.5. [[Screen Location Calculation]] | [[Assembly_Language_Programming_Lecture_No.pdf#page=86|📍 Screen Location Calculation]]
+---
