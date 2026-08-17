@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6b8bfd74f3ee42",
+        "id": "3211ecf7c4f57a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f752155109cbca",
+            "id": "5445a2239c1e5896",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Uni Courses/COAL/Our First Program.md",
-                "mode": "source",
-                "source": false
+                "file": "Coal Planner Canvas.canvas",
+                "viewState": {
+                  "x": -2808,
+                  "y": -473.54837595024196,
+                  "zoom": -1.1404915021205073
+                }
               },
-              "icon": "lucide-file",
-              "title": "Our First Program"
+              "icon": "lucide-layout-dashboard",
+              "title": "Coal Planner Canvas"
             }
           }
         ]
@@ -79,11 +82,11 @@
         ]
       },
       {
-        "id": "c5f046143f4347b2",
+        "id": "902752e26c4df3bf",
         "type": "tabs",
         "children": [
           {
-            "id": "60e9532ac234d597",
+            "id": "45cdeb03aefd029c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -226,43 +229,43 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e0f752155109cbca",
+  "active": "45cdeb03aefd029c",
   "lastOpenFiles": [
-    "Uni Courses/COAL/COAL Course Content.md",
-    "Uni Courses/COAL/Segmented Memory Model.md",
-    "Uni Courses/COAL/Basic Computer Architecture.md",
-    "Types of Jump.md",
+    "Coal Planner Canvas.canvas",
     "The Network Edge.md",
-    "University Courses.md",
-    "Uni Courses/COAL/Our First Program.md",
-    "Uni Courses/COAL/Register Architecture.md",
-    "Uni Courses/COAL/History.md",
     "Uni Courses/COAL/Intel iapx88 Architecture.md",
+    "Coursera/Game Design and Development with Unity Specialization by Michigan State University..md",
+    "Daily Notes/2026-08-11.md",
+    "Daily Notes/Daily notes.md",
     "Uni Courses/COAL/Instruction Groups.md",
-    "Uni Courses/COAL/Registers.md",
+    "Coursera Courses.md",
+    "2026-08-11T12-51-26-268Z.webm",
+    "Uni Courses/COAL/Our First Program.md",
+    "Daily Notes/2026-08-03.md",
+    "Uni Courses/COAL/History.md",
+    "Uni Courses/COAL/COAL Course Content.md",
+    "Uni Courses/COAL/Basic Computer Architecture.md",
+    "University Courses.md",
     "Uni Courses/COAL/Introduction to Assembly Language.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Uni Courses/Computer Networks Course Content.md",
+    "Uni Courses/COAL/Segmented Memory Model.md",
+    "Types of Jump.md",
+    "Uni Courses/COAL/Register Architecture.md",
+    "Uni Courses/COAL/Registers.md",
     "Uni Courses/COAL/Assembly Code",
     "Notes.md",
-    "Coursera Courses.md",
     "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
-    "Daily Notes/2026-08-03.md",
-    "Daily Notes/Daily notes.md",
     "Coursera/Hello ,Python By Google/Module 4.md",
     "Coursera/Hello ,Python By Google/Module 2.md",
     "Coursera/Hello ,Python By Google/Module 3.md",
     "Daily Notes",
-    "Uni Courses/Computer Networks Course Content.md",
     "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
     "Notes",
     "Uni Courses/Graph Theory/Introduction to Graph Theory.md",
-    "Uni Courses/Graph Theory/Graph Theory Course Content.md",
-    "Uni Courses/Graph Theory/Matching Algorithms.md",
-    "Uni Courses/Graph Theory/Deadlock of computer system.md",
     "Uni Courses/Graph Theory",
     "Uni Courses/COAL",
-    "Uni Courses",
-    "Coursera/Hello ,Python By Google/Module 1",
-    "Coursera/Hello ,Python By Google",
-    "Coursera"
+    "Uni Courses"
   ]
 }

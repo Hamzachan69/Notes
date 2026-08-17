@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"5ff4c549f948fa98","type":"file","file":"Uni Courses/COAL/History.md","x":-2567,"y":326,"width":179,"height":50,"color":"1"},
+		{"id":"047ff8897cba0fb0","type":"file","file":"Uni Courses/COAL/Register Architecture.md","x":-2388,"y":255,"width":446,"height":50,"color":"1"},
+		{"id":"5ade0f82cc877ada","type":"file","file":"Uni Courses/COAL/Our First Program.md","x":-2165,"y":136,"width":362,"height":54,"color":"1"},
+		{"id":"267ba437616e4ced","type":"file","file":"Uni Courses/COAL/Segmented Memory Model.md","x":-1873,"y":44,"width":515,"height":62,"color":"1"},
+		{"id":"e44bd4e4cd26f3e9","type":"file","file":"Uni Courses/COAL/Basic Computer Architecture.md","x":-4258,"y":76,"width":545,"height":58,"color":"1"},
+		{"id":"1f39e0c1b27f1994","type":"file","file":"Uni Courses/COAL/Registers.md","x":-3803,"y":183,"width":224,"height":55,"color":"1"},
+		{"id":"a5e5be941541efd2","type":"file","file":"Uni Courses/COAL/Instruction Groups.md","x":-3523,"y":280,"width":372,"height":50,"color":"1"},
+		{"id":"2617278797e5cc6c","type":"file","file":"Uni Courses/COAL/Intel iapx88 Architecture.md","x":-3071,"y":376,"width":480,"height":50,"color":"1"},
+		{"id":"41e9cdd46452aa0e","type":"text","text":"# COAL","x":-3001,"y":-498,"width":146,"height":50,"color":"1"},
+		{"id":"af24fda457905424","type":"text","text":"*Chapter 1*","x":-3001,"y":-259,"width":117,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"b2fba4df8bd1d161","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"e44bd4e4cd26f3e9","toSide":"top","color":"1"},
+		{"id":"1cdfbe64efd286c4","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"1f39e0c1b27f1994","toSide":"top","color":"1"},
+		{"id":"bc727de94b9c3b66","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"a5e5be941541efd2","toSide":"top","color":"1"},
+		{"id":"1157765a877a41fc","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"2617278797e5cc6c","toSide":"top","color":"1"},
+		{"id":"b1a062d68c984cb5","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"5ff4c549f948fa98","toSide":"top","color":"1"},
+		{"id":"f1a8adf3437957da","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"047ff8897cba0fb0","toSide":"top","color":"1"},
+		{"id":"e556c10288e2e8b7","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"5ade0f82cc877ada","toSide":"top","color":"1"},
+		{"id":"43d2a1114519920a","fromNode":"af24fda457905424","fromSide":"bottom","toNode":"267ba437616e4ced","toSide":"top","color":"1"},
+		{"id":"70590867cd5fe943","fromNode":"41e9cdd46452aa0e","fromSide":"bottom","toNode":"af24fda457905424","toSide":"top","color":"1"}
+	]
+}

@@ -1,5 +1,0 @@
-
-##### My Review
->This is a course called **Hello Python by Google** that was available on **Coursera**. This was the first time I did a course on Coursera, and this one had a bit of hype in it, but this course wasn't for me because I have done some work in Python. This is for those who have never even touched Python or have ever interacted with Python in their life. Although it did introduce Python to new users, I believe it still lacks a lot of things that I believe they could have gone for. For example, they have taught implicit and explicit programming and dynamic programming that Python does itself, like how implicit and explicit conversions work, what are immutable and mutable data objects, and many more. I believe that they could have gone in more depth so that there was more clarity to the beginner. I'll rate this 6 out of 10. 
-
-## [[Module 1 |Get Started]]
