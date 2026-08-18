@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3211ecf7c4f57a5b",
+        "id": "5bd8610940d786b1",
         "type": "tabs",
         "children": [
           {
-            "id": "5445a2239c1e5896",
+            "id": "b008d9e810d53d86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Coal Planner Canvas.canvas",
-                "viewState": {
-                  "x": -2243.632342778162,
-                  "y": 104.04664823773328,
-                  "zoom": -1.1404915021205073
-                }
+                "file": "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Coal Planner Canvas"
+              "icon": "lucide-file-text",
+              "title": "Assembly_Language_Programming_Lecture_No"
             }
           }
         ]
@@ -99,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429
+    "width": 429,
+    "collapsed": true
   },
   "right": {
     "id": "2345be0a88577612",
@@ -161,18 +157,8 @@
             "state": {
               "type": "notebooklm-webview",
               "state": {},
-              "icon": "book-open",
-              "title": "NotebookLM"
-            }
-          },
-          {
-            "id": "639293204342d7aa",
-            "type": "leaf",
-            "state": {
-              "type": "agent-client-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "obsidian://open?vault=Notes&file=Uni%20Courses%..."
+              "icon": "lucide-ghost",
+              "title": "notebooklm-webview"
             }
           },
           {
@@ -221,16 +207,25 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "random-note:Open random note": false,
+      "graph:Open graph view": false,
       "star-notebooklm:Send to NotebookLM": false,
       "star-notebooklm:Open NotebookLM": false,
       "sticky-notes:Open sticky note": false,
       "whisper:Open recording controls": false,
-      "agent-client:Open agent client": false,
-      "graph:Open graph view": false
+      "agent-client:Open agent client": false
     }
   },
-  "active": "5445a2239c1e5896",
+  "active": "b008d9e810d53d86",
   "lastOpenFiles": [
+    "Uni Courses/COAL/Assembly Code/2_1.asm",
+    "Uni Courses/COAL/Lecture pptx by Dr Maqsood/Lecture 01-02.pptx",
+    "Uni Courses/COAL/Lecture pptx by Dr Maqsood",
+    "Uni Courses/COAL/Lecture 01-02.pptx",
+    "Uni Courses/COAL/Our First Program.md",
+    "Uni Courses/COAL/Introduction to Assembly Language.md",
+    "Uni Courses/COAL/History.md",
+    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
+    "Notes.md",
     "Coal Planner Canvas.canvas",
     "The Network Edge.md",
     "Uni Courses/COAL/Intel iapx88 Architecture.md",
@@ -240,13 +235,10 @@
     "Uni Courses/COAL/Instruction Groups.md",
     "Coursera Courses.md",
     "2026-08-11T12-51-26-268Z.webm",
-    "Uni Courses/COAL/Our First Program.md",
     "Daily Notes/2026-08-03.md",
-    "Uni Courses/COAL/History.md",
     "Uni Courses/COAL/COAL Course Content.md",
     "Uni Courses/COAL/Basic Computer Architecture.md",
     "University Courses.md",
-    "Uni Courses/COAL/Introduction to Assembly Language.md",
     "Untitled.base",
     "Untitled 1.base",
     "Uni Courses/Computer Networks Course Content.md",
@@ -255,17 +247,12 @@
     "Uni Courses/COAL/Register Architecture.md",
     "Uni Courses/COAL/Registers.md",
     "Uni Courses/COAL/Assembly Code",
-    "Notes.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
     "Coursera/Hello ,Python By Google/Module 4.md",
     "Coursera/Hello ,Python By Google/Module 2.md",
     "Coursera/Hello ,Python By Google/Module 3.md",
     "Daily Notes",
     "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
     "Notes",
-    "Uni Courses/Graph Theory/Introduction to Graph Theory.md",
-    "Uni Courses/Graph Theory",
-    "Uni Courses/COAL",
-    "Uni Courses"
+    "Uni Courses/Graph Theory/Introduction to Graph Theory.md"
   ]
 }
