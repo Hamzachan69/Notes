@@ -14,4 +14,4 @@ int 0x21
 num1: dw 1 ; dw is used to define word and db is used to define a bit 
 num2: dw 2
 num3: dw 3
-num4: dw 4
+num4: dw 4 ;testing push
