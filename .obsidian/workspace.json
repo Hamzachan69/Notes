@@ -1,33 +1,24 @@
 {
   "main": {
-    "id": "a2a4005ab76b7f73",
+    "id": "21e515daa68803f3",
     "type": "split",
     "children": [
       {
-        "id": "5bd8610940d786b1",
+        "id": "475cb1990d320e43",
         "type": "tabs",
         "children": [
           {
-            "id": "b008d9e810d53d86",
+            "id": "0a06e29cf6ba41d3",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
-              "type": "pdf",
-              "state": {
-                "file": "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assembly_Language_Programming_Lecture_No"
-=======
               "type": "markdown",
               "state": {
-                "file": "2026-08-17.md",
+                "file": "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-17"
->>>>>>> Stashed changes
+              "title": "Python_Integers_Floats_Corey_Schafer_Obsidian"
             }
           }
         ]
@@ -36,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61717fc16cfe87b9",
+    "id": "6222e69bde054b34",
     "type": "split",
     "children": [
       {
-        "id": "9801cf250397358f",
+        "id": "188f8233c8443cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d30427746da4c0",
+            "id": "87291b7418bde52d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +50,7 @@
             }
           },
           {
-            "id": "e7d40a4d6fe2d20b",
+            "id": "9f4e6661b9b492b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,11 +67,14 @@
             }
           },
           {
-            "id": "bca28e2aae75d39a",
+            "id": "1326baf77a73f298",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -88,11 +82,11 @@
         ]
       },
       {
-        "id": "902752e26c4df3bf",
+        "id": "7addf694a4afd4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "45cdeb03aefd029c",
+            "id": "82d24852017408eb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -105,23 +99,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "2345be0a88577612",
+    "id": "4634c6920f5ab288",
     "type": "split",
     "children": [
       {
-        "id": "76e17132cf5cf973",
+        "id": "97b0fd57d7a3bf01",
         "type": "tabs",
         "children": [
           {
-            "id": "9358b6c779cc4607",
+            "id": "b3d0a57a23d292ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +129,12 @@
             }
           },
           {
-            "id": "91bb330b9cf63435",
+            "id": "caeb90739f24515c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +143,7 @@
             }
           },
           {
-            "id": "f2631b43313984ad",
+            "id": "c5036017764b3c11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,17 +158,7 @@
             }
           },
           {
-            "id": "cf7e79d7c4329470",
-            "type": "leaf",
-            "state": {
-              "type": "notebooklm-webview",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebooklm-webview"
-            }
-          },
-          {
-            "id": "f2acdc5dece2e2c6",
+            "id": "babb0b94e2f8339e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -187,12 +172,12 @@
             }
           },
           {
-            "id": "23385d086d75f389",
+            "id": "791fe183f8304d0c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni Courses/COAL/Our First Program.md",
+                "file": "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,12 +186,11 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 377,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -216,9 +200,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "random-note:Open random note": false,
       "graph:Open graph view": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
       "star-notebooklm:Send to NotebookLM": false,
       "star-notebooklm:Open NotebookLM": false,
       "sticky-notes:Open sticky note": false,
@@ -226,63 +210,13 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "b008d9e810d53d86",
+  "active": "0a06e29cf6ba41d3",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Uni Courses/COAL/Assembly Code/2_1.asm",
-    "Uni Courses/COAL/Lecture pptx by Dr Maqsood/Lecture 01-02.pptx",
-    "Uni Courses/COAL/Lecture pptx by Dr Maqsood",
-    "Uni Courses/COAL/Lecture 01-02.pptx",
-    "Uni Courses/COAL/Our First Program.md",
-    "Uni Courses/COAL/Introduction to Assembly Language.md",
-    "Uni Courses/COAL/History.md",
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
+    "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
     "Notes.md",
-    "Coal Planner Canvas.canvas",
-    "The Network Edge.md",
-=======
-    "Uni Courses/COAL/Instruction Groups.md",
-    "2026-08-17.md",
-    "Uni Courses/COAL/COAL Course Content.md",
-    "Uni Courses/Coal Planner Canvas.canvas",
-    "Uni Courses/The Network Edge.md",
-    "Notes.md",
-    "Coursera/Coursera Courses.md",
-    "Uni Courses/Types of Jump.md",
-    "Uni Courses/University Courses.md",
->>>>>>> Stashed changes
-    "Uni Courses/COAL/Intel iapx88 Architecture.md",
-    "Coursera/Game Design and Development with Unity Specialization by Michigan State University..md",
-    "Daily Notes/2026-08-11.md",
-    "Daily Notes/Daily notes.md",
-    "2026-08-11T12-51-26-268Z.webm",
-    "Daily Notes/2026-08-03.md",
-<<<<<<< Updated upstream
-    "Uni Courses/COAL/COAL Course Content.md",
-    "Uni Courses/COAL/Basic Computer Architecture.md",
-    "University Courses.md",
-=======
-    "Uni Courses/COAL/History.md",
-    "Uni Courses/COAL/Basic Computer Architecture.md",
-    "Uni Courses/COAL/Introduction to Assembly Language.md",
->>>>>>> Stashed changes
-    "Untitled.base",
-    "Untitled 1.base",
-    "Uni Courses/Computer Networks Course Content.md",
-    "Uni Courses/COAL/Segmented Memory Model.md",
-    "Uni Courses/COAL/Register Architecture.md",
-    "Uni Courses/COAL/Registers.md",
-    "Uni Courses/COAL/Assembly Code",
-<<<<<<< Updated upstream
-=======
-    "Uni Courses/COAL/Assembly_Language_Programming_Lecture_No.pdf",
->>>>>>> Stashed changes
-    "Coursera/Hello ,Python By Google/Module 4.md",
-    "Coursera/Hello ,Python By Google/Module 2.md",
-    "Coursera/Hello ,Python By Google/Module 3.md",
-    "Daily Notes",
-    "Coursera/Hello ,Python By Google/Hello ,Python By Google.md",
-    "Notes",
-    "Uni Courses/Graph Theory/Introduction to Graph Theory.md"
+    "Online Courses/Python by Corey schafer/Python Strings — Working with Textual Data.md",
+    "Online Courses/Python by Corey schafer/Python By Corey Schafer.md",
+    "Python Tutorial for Beginners 2 Strings Working with Textual Data.md",
+    "2026-08-17.md"
   ]
 }
