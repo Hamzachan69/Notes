@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1 — Data Communication & Networking Basics.md",
+                "file": "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 — Data Communication & Networking Basics"
+              "title": "Python_Integers_Floats_Corey_Schafer_Obsidian"
+            }
+          },
+          {
+            "id": "cebaf1a11829c589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "42301b241f09515b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,30 +243,34 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "0a06e29cf6ba41d3",
+  "active": "87291b7418bde52d",
   "lastOpenFiles": [
+    "Uni Courses/COAL/Lecture pptx by Dr Maqsood/Week05_COAL.pdf",
+    "Uni Courses/Graph Theory/Lectures/GT - Lecture #7 - Fall26.pdf",
+    "Uni Courses/Graph Theory/Lectures/GT - Lecture #8 - Fall 26.pdf",
+    "Uni Courses/COAL/Lecture pptx by Dr Maqsood/Coal_Week04.pdf",
+    "Pasted image 20260913224807.png",
+    "Untitled.md",
+    "Assignment 1.md",
+    "Uni Courses/Computer Networks/Lecture pptx and book/~$CN  - Lecture 3.pptx",
+    "Uni Courses/Computer Networks/Lecture pptx and book/CN  - Lecture 3.pptx",
+    "Uni Courses/Computer Networks/Lecture pptx and book/CN - Lecture 4 application layer - 1.pptx",
+    "Uni Courses/Computer Networks/Lecture pptx and book/CN - application layer (http cookies).pptx",
+    "Uni Courses/Computer Networks/Lecture pptx and book/cn-TLS.pptx",
+    "Online Courses/Python by Corey schafer/Data/results.csv",
+    "Online Courses/Python by Corey schafer/Data/schema.csv",
+    "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
+    "Online Courses/Python by Corey schafer/Python Strings — Working with Textual Data.md",
+    "Online Courses/Python by Corey schafer/Python By Corey Schafer.md",
+    "Uni Courses/University Courses.md",
     "COAL Course Content.md",
     "Lecture 1 — Data Communication & Networking Basics.md",
-    "Uni Courses/Computer Networks/Lecture pptx and book/~$CN  - Lecture 2.pptx",
-    "Uni Courses/Computer Networks/Lecture pptx and book/~$CN  - W1 L1 (1).pptx",
-    "Uni Courses/Computer Networks/Lecture pptx and book/CN  - W1 L1 (1).pptx",
-    "Uni Courses/Computer Networks/Lecture pptx and book/Computer Networking A Top-Down Approach, 8th Edition by James F. Kurose, Keith W. Ross-Pearson.pdf",
-    "Uni Courses/Computer Networks/Lecture pptx and book/CN  - Lecture 2.pptx",
-    "Uni Courses/Computer Networks/Lecture pptx and book",
-    "Uni Courses/Computer Networks/New folder",
-    "Uni Courses/Computer Networks/CN  - W1 L1 (1).pptx",
-    "Uni Courses/Computer Networks/Computer Networking A Top-Down Approach, 8th Edition by James F. Kurose, Keith W. Ross-Pearson.pdf",
-    "Uni Courses/Computer Networks/CN  - Lecture 2.pptx",
     "Week1.md",
-    "Uni Courses/University Courses.md",
     "Hex,Binary & Decimal Conversions.md",
     "Uni Courses/The Network Edge.md",
     "Uni Courses/Computer Networks Course Content.md",
     "Uni Courses/COAL/Coal Planner Canvas.canvas",
-    "Online Courses/Python by Corey schafer/Python_Integers_Floats_Corey_Schafer_Obsidian.md",
     "Notes.md",
-    "Online Courses/Python by Corey schafer/Python Strings — Working with Textual Data.md",
-    "Online Courses/Python by Corey schafer/Python By Corey Schafer.md",
     "Python Tutorial for Beginners 2 Strings Working with Textual Data.md",
     "2026-08-17.md"
   ]
